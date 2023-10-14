@@ -1,0 +1,114 @@
+/* FONT */
+
+@import url('https://fonts.googleapis.com/css2?family=Qwigley&family=Sen&display=swap');
+
+
+/* BACKGROUND */
+
+body {background: url('https://i.pinimg.com/originals/70/a6/48/70a648805ddbbc0b60522d5ecc395b2d.jpg') top center fixed;background-size: 100%;font-family: Raleway;color: black;}
+
+/* LOGO IMAGE */
+
+.navbar-header > a > img {content: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50029d8d-3c72-4991-b3aa-f037a31a5097/dcsbjm9-4146e4ae-ad52-4068-8e8a-73e33c8282ec.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwMDI5ZDhkLTNjNzItNDk5MS1iM2FhLWYwMzdhMzFhNTA5N1wvZGNzYmptOS00MTQ2ZTRhZS1hZDUyLTQwNjgtOGU4YS03M2UzM2M4MjgyZWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gCFIUH7bK5JQfwJuj7y9iXBdaKjB2DvEvG08HxbU9Oo');width: 200px;}
+
+/* INTERIOR BOX - THE 2ND BACKGROUND BASICALLY BUT FOR THE RIGHT SIDE*/
+
+.container.main {background: rgba(77,78,125,0.4);border: 1px solid black;box-shadow: none;}
+
+/* PROGRESS BAR */
+
+.progress-bar {background: rgba(80,98,137);}
+
+/* HEADER */
+
+h1 {color:#ffffff;font-size: 48px; text-align: center }
+H2 { text-align: center }
+
+
+/* CHAT */
+
+.chat_dark {background: rgba(0,0,0);text-align: center;border: 1px solid black;border-bottom: none;}
+
+/* INTERIOR BOX - MIDDLE BITS*/
+
+.col-md-9 {background: rgba(0,0,0,0.0);}
+
+
+/* Navbar Word Colors */
+
+.navbar li a {color: #ffffff !important}
+
+
+/* ALERTS */
+
+.alert,.alert-warning,.alert-danger {background: #000000 !important;border: none;color: #f4d089;border-radius: 0px !important}
+
+/* CAVE IMAGES */
+
+div.cave-grid > img {content: url('https://i.pinimg.com/564x/69/71/74/69717424961baa5ce2485e74a11c9697.jpg')!important;}
+
+/* PRIDE DYNASTY PANEL COLORS */
+
+.feature,div.left {background: #f4d089;border: none;border-radius: 0px !important}
+
+
+/* HOVER COLOR */
+
+.navbar li a:hover {background:  rgba(75,69,111,0.5)!important;}
+
+
+
+/* NAVBAR COLOR */
+
+.navbar {background: transparent !important;border: none !important;border-bottom: 1px solid #000000  !important;border-top: none !important;border-right: none !important;color: #ffffff !important;}
+
+/* PROFILE BAR COLOR - 0 LIONS W/MUTATIONS THING */
+
+.top,.bottom,th {background: #506289 !important;color: #f4d089 !important;border-radius: 0px}td.bottom a { text-decoration: none !important}
+
+/* PROFILE TABLE LEFT SIDE COLOR PANEL */
+
+.inner-table .left {background: rgba(0,0,0,0.0) !important; rgba(0,0,0,0.8);border-radius: 0px}
+
+/* TOPBAR */
+
+.topbar {background: rgba(0,0,0,0.0);border: none;border-top: none;color: #ffffff;border-radius: 0px;}
+
+/* HOME/DEN BAR */
+
+.breadcrumb {background: #f4d089 !important; border: none;border-radius: 0px}
+
+/* HOME/DEN BAR TEXT COLOR */
+
+.breadcrumb .active {color: #ffffff}
+
+
+/* CREDIT */
+
+.breadcrumb::after { content: "Css by Critters (#200232)"; color: #f4d089  position: absolute; right: 13%; /* (This may need adjusting) */  z-index: 100 }
+
+
+/* ROUND PROFILE IMAGE */
+
+div#lion_image {border-radius: 50% !important;overflow: hidden;margin-top: 15px; /* May need adjusting */margin-left: 12px /* May need adjusting */}
+
+
+/* BOOKMARK TEXT COLOR */
+
+.sidebar h3 {color: #f4d089 !important;font-size: 26px !important;font-family: 'FONT NAME'}
+
+/* PANEL BACKGROUND COLOR - TRANSPARENT PART! */
+
+.table {background: rgba(77, 78, 125, 0.4);border: none !important;border-collapse: separate;border-radius: 0px}
+
+/* COLOR AFTER PANELS STATS */
+
+.inner-table .right {background: none;border-radius: 0px !important}
+
+
+/*PRIDE DESCRIPTION BOXES*/
+.table .left {background: #f4d089;border-radius: 0;}
+506289
+
+*wORDS COLORS*
+.item-header {padding: 3px;font-size: 11px;color: #f4d089;font-weight: bold;border-top-left-radius: 4px;border-top-right-radius: 4px;background: #f4d089;margin-bottom: 6px;}
